@@ -5,12 +5,13 @@
 #include <iostream>
 using namespace std;
 
-extern int a, b;
-
 int main()
 {
-  int a, b;
-  b= = a*0.621371
-  cout << b << endl;
-  return0;
-}
+  double a;
+  cout << "";
+  cin >> a
+    double b
+    b = a*0.621371
+    cout >> b
+    return0;
+}  
